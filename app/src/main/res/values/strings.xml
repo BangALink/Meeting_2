@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">meeting 2</string>
+    <string name="welcome">Selamat datang</string>
+    <string name="responsetrue">Jawaban Anda Benar</string>
+    <string name="responsefalse">Maaf,Salah</string>
+    <string name="Question1">Jakarta adalah ibukota Indonesia</string>
+    <string name="Question2">Burung bisa berenang</string>
+    <string name="Question3">Ayah bekerja di padang pasir</string>
+    <string name="Question4">Chandra berumur 49 Tahun</string>
+    <string name="Question5">Doni bekerja di pelabuhan</string>
+    <string name="Question6">Kakak hari ini masuk rumah sakit</string>
+</resources>
